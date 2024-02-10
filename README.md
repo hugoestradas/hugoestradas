@@ -1,9 +1,9 @@
 # My name is Hugo Estrada and I'm an Cloud and Data Architect specialized in the following fields: 
 
+# • Cloud Management ☁️
 # • Artificial Intelligence 🤖
 # • Data Engineering 🧑🏻‍💻🛠️
 # • DevOps ⚙️🦾
-# • Cloud Management ☁️
 # • Software Development 💻💾
 # • Forensic Analysis 🧐
 
