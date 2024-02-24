@@ -1,9 +1,9 @@
 ### With over 12 years of experience as a Technical Lead in the IT industry and as an External Consultant, I have honed my skills in 
-#### • Cloud Computing
-#### • Data Engineering
-#### • Machine Learning
-#### • DevOps
-#### • Software Development
+#### • Cloud Computing ☁️
+#### • Data Engineering 👷🏻‍♂️
+#### • Machine Learning 🤖
+#### • DevOps 🦾
+#### • Software Development 🧑🏻‍💻
 ### To deliver impactful solutions for diverse clients.
 
 ### As a trusted advisor, I have successfully navigated complex IT landscapes, leveraging my expertise to architect scalable cloud solutions, design efficient data pipelines, optimize data architecture for performance, implement DevOps strategies for seamless deployment and automation, and lead cross-functional teams in delivering high-quality software products.
