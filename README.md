@@ -1,4 +1,4 @@
-### With over 12 years of experience as a Technical Lead in the IT industry and as an External Consultant, I have honed my skills in 
+### With over 12 years of experience as a Technical Lead in the IT industry and as an External Consultant, I have honed my skills in:
 #### • Cloud Computing ☁️
 #### • Data Engineering 👷🏻‍♂️
 #### • Machine Learning 🤖
