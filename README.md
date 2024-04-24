@@ -1,4 +1,4 @@
-# Data & Cloud Manager | Data Science & DevOps Consulting.
+# Multi-Cloud & Data Manager | Data Science & DevOps Consulting.
 
 
 ### With over a decade of experience as a Technical Lead in the IT industry and as an External Consultant, I have honed my skills to deliver impactful solutions for diverse clients in the following fields:
