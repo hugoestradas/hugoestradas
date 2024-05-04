@@ -6,7 +6,7 @@
 ### • Cloud Computing ☁️
 ### • Data & Software Engineering 👷🏻‍♂️🧑🏻‍💻
 ### • Machine Learning 🤖
-### • DevOps 🦾
+### • DevOps ⚙️
 
 #### As a trusted advisor, I have successfully navigated complex IT landscapes, leveraging my expertise to architect scalable cloud solutions, design efficient data pipelines, optimize data architecture for performance, implement DevOps strategies for seamless deployment and automation, and lead cross-functional teams in delivering high-quality software products.
 
