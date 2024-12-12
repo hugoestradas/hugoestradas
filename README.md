@@ -1,3 +1,13 @@
-# Cloud & Data Manager | Data Science & DevOps Consulting.
+# Cloud & ML Manager | Data Science & DevOps Consulting.
 
-### Within the dynamic realm of cloud architecture, my focus is on delivering robust AI and DevOps solutions. My expertise in Cloud Infrastructure and automation has played a pivotal role in enhancing operational efficiencies for different companies and industries.
+### Seasoned Data and ML Engieer with over 12 years of experience in the IT industry,
+### specializing in the three major cloud platforms: AWS, Azure, and GCP. Proficient
+### in Databricks and Snowflake, as well Kubernetes and container architectures.
+
+### Holder of multiple certifications validating my in-depth knowledge and versatility
+### in designing, implementing, and optimizing cloud-native solutions. Demonstrated
+### ability to lead complex migration and modernization projects, ensuring high
+### availability, scalability, and security in multi-cloud environments. 
+
+### Proven track record of leveraging cloud technologies to drive innovation and operational
+### efficiency across diverse IT landscapes.
