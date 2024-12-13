@@ -1,4 +1,5 @@
-# Seasoned Software & Cloud Engineer with over 12 years of experience in the IT industry.
+# About me:
+## Seasoned Software & Cloud Engineer with over 12 years of experience in the IT industry.
 #### specializing in the three major cloud platforms: AWS, Azure, and GCP. 
 
 #### Proficient in Databricks and Snowflake, as well Kubernetes and container architectures.
