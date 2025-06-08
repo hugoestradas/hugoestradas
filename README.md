@@ -2,7 +2,7 @@
 
 ## Seasoned Software & Cloud Engineer
 
-With over 13 years of experience in the IT industry, I've honed my skills across a diverse range of sectors including healthcare, consumer goods, education, telecommunications, banking, and insurance. This multi-industry exposure has equipped me with a unique perspective on solving complex technological challenges.
+I'm a seasoned cloud engineer with deep expertise across AWS, Azure, and GCP, specializing in multi-cloud architectures and data platforms like Databricks and Snowflake. My experience spans healthcare, finance, telecom, education, and consumer goods, giving me unique insights into industry-specific challenges.
 
 ### Cloud Expertise
 - **Multi-Cloud Proficiency**: Specialized in AWS, Azure, and GCP
@@ -10,12 +10,10 @@ With over 13 years of experience in the IT industry, I've honed my skills across
 - **Container Orchestration**: Expert in Kubernetes and container architectures
 
 ### Industry-Spanning Experience
-My journey through various industries has allowed me to:
-- Develop innovative healthcare solutions that improve patient care
-- Optimize consumer-facing applications for enhanced user experiences
-- Implement robust financial systems for banking and insurance sectors
-- Design scalable architectures for telecom providers
-- Create efficient data pipelines for educational institutions
+Cloud Platforms: AWS, Azure, GCP with multiple certifications
+Data & Analytics: Databricks, Snowflake, data pipeline architecture
+Infrastructure: Kubernetes, container orchestration, DevOps practices
+Focus Areas: Cloud migration, cost optimization, scalability, security
 
 ### Certifications & Skills
 - Holder of multiple cloud certifications, validating in-depth knowledge across platforms
