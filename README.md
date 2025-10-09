@@ -2,7 +2,7 @@
 
 ## Seasoned Software & Cloud Engineer
 
-I'm a seasoned cloud engineer with deep expertise across AWS, Azure, and GCP, specializing in multi-cloud architectures and data platforms like Databricks and Snowflake. My experience spans healthcare, finance, telecom, education, and consumer goods, giving me unique insights into industry-specific challenges.
+I'm a seasoned Software Engineer and IT Manager with deep expertise across AWS, Azure, and GCP, specializing in multi-cloud architectures and data platforms like Databricks and Snowflake. My experience spans healthcare, finance, telecom, education, and consumer goods, giving me unique insights into industry-specific challenges.
 
 ### Cloud Expertise
 - **Multi-Cloud Proficiency**: Specialized in AWS, Azure, and GCP
