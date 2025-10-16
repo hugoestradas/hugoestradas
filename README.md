@@ -1,7 +1,7 @@
 # About me / Acerca de mí:
 
-##ENG
-###Engineering Leader with 13+ years building high-performing teams and driving digital transformation through AI adoption and cloud innovation. Expert at aligning technical strategy with business goals across AWS, Azure, GCP, Databricks, and Snowflake.
+## ENG
+### Engineering Leader with 13+ years building high-performing teams and driving digital transformation through AI adoption and cloud innovation. Expert at aligning technical strategy with business goals across AWS, Azure, GCP, Databricks, and Snowflake.
 
 Leadership Focus:
 	•	Scale teams delivering enterprise platforms with serverless and microservices architectures.
@@ -13,8 +13,8 @@ Impact:
 	•	Modernized legacy applications into microservices and serverless architectures.
 	•	Directed AI/ML solutions, including RAG pipelines and predictive models for strategic decisions.
 
-##ESP
-###Líder de Ingeniería con más de 13 años formando equipos de alto desempeño y acelerando la transformación digital mediante adopción de IA e innovación en la nube. Experto en alinear estrategia técnica con objetivos de negocio en AWS, Azure, GCP, Databricks y Snowflake.
+## ESP
+### Líder de Ingeniería con más de 13 años formando equipos de alto desempeño y acelerando la transformación digital mediante adopción de IA e innovación en la nube. Experto en alinear estrategia técnica con objetivos de negocio en AWS, Azure, GCP, Databricks y Snowflake.
 
 Enfoque de liderazgo:
 	•	Escalar equipos que desarrollan plataformas empresariales con arquitecturas serverless y microservicios.
