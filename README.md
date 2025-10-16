@@ -1,28 +1,27 @@
-# About me:
+# About me / Acerca de mí:
 
-## Seasoned Software & Cloud Engineer
+##ENG
+###Engineering Leader with 13+ years building high-performing teams and driving digital transformation through AI adoption and cloud innovation. Expert at aligning technical strategy with business goals across AWS, Azure, GCP, Databricks, and Snowflake.
 
-I'm a seasoned Software Engineer and IT Manager with deep expertise across AWS, Azure, and GCP, specializing in multi-cloud architectures and data platforms like Databricks and Snowflake. My experience spans healthcare, finance, telecom, education, and consumer goods, giving me unique insights into industry-specific challenges.
+Leadership Focus:
+	•	Scale teams delivering enterprise platforms with serverless and microservices architectures.
+	•	Drive AI adoption and app modernization, mentoring engineers in cloud-native practices.
+	•	Translate business vision into actionable technical roadmaps.
 
-### Cloud Expertise
-- **Multi-Cloud Proficiency**: Specialized in AWS, Azure, and GCP
-- **Data Platforms**: Extensive experience with Databricks and Snowflake
-- **Container Orchestration**: Expert in Kubernetes and container architectures
+Impact:
+	•	Led design of AI-driven systems and analytics platforms delivering measurable business value.
+	•	Modernized legacy applications into microservices and serverless architectures.
+	•	Directed AI/ML solutions, including RAG pipelines and predictive models for strategic decisions.
 
-### Industry-Spanning Experience
-Cloud Platforms: AWS, Azure, GCP with multiple certifications
-Data & Analytics: Databricks, Snowflake, data pipeline architecture
-Infrastructure: Kubernetes, container orchestration, DevOps practices
-Focus Areas: Cloud migration, cost optimization, scalability, security
+##ESP
+###Líder de Ingeniería con más de 13 años formando equipos de alto desempeño y acelerando la transformación digital mediante adopción de IA e innovación en la nube. Experto en alinear estrategia técnica con objetivos de negocio en AWS, Azure, GCP, Databricks y Snowflake.
 
-### Certifications & Skills
-- Holder of multiple cloud certifications, validating in-depth knowledge across platforms
-- Proven ability to lead complex migration and modernization projects
-- Expert in ensuring high availability, scalability, and security in multi-cloud environments
+Enfoque de liderazgo:
+	•	Escalar equipos que desarrollan plataformas empresariales con arquitecturas serverless y microservicios.
+	•	Impulsar la adopción de IA y la modernización de aplicaciones, guiando ingenieros en prácticas cloud-native.
+	•	Traducir la visión del negocio en hojas de ruta técnicas ejecutables.
 
-### Achievements
-- Successfully led cross-functional teams in delivering cloud-native solutions
-- Implemented cost-saving measures through efficient cloud resource utilization
-- Pioneered the adoption of DevOps practices across various organizations
-
-My diverse background allows me to bring a wealth of industry-specific insights to every project, ensuring solutions that are not only technologically advanced but also tailored to unique business needs. I'm passionate about leveraging cloud technologies to drive innovation and operational efficiency across diverse IT landscapes.
+Impacto:
+	•	Liderazgo en el diseño de sistemas impulsados por IA y plataformas analíticas con valor medible.
+	•	Modernización de aplicaciones migrando sistemas heredados a microservicios y arquitecturas serverless.
+	•	Dirección de soluciones de IA/ML, incluyendo pipelines RAG y modelos predictivos para decisiones estratégicas.
