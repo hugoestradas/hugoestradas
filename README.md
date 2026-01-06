@@ -1,4 +1,4 @@
-## Engineering Manager with 13+ years building high-performing teams and driving digital transformation through AI adoption and cloud innovation. Expert at aligning technical strategy with business goals across AWS, Azure, GCP, Kubernetes, Databricks, and Snowflake.
+## Engineering Manager with 14+ years building high-performing teams and driving digital transformation through AI adoption and cloud innovation. Expert at aligning technical strategy with business goals across AWS, Azure, GCP, Kubernetes, Databricks, and Snowflake.
 
 Leadership Focus:
 
