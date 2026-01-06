@@ -1,13 +1,3 @@
-## Engineering Manager with 14+ years building high-performing teams and driving digital transformation through AI adoption and cloud innovation. Expert at aligning technical strategy with business goals across AWS, Azure, GCP, Kubernetes, Databricks, and Snowflake.
-
-Leadership Focus:
-
-	•	Scale teams delivering enterprise platforms with serverless and microservices architectures.
-	•	Drive AI adoption and app modernization, mentoring engineers in cloud-native practices.
-	•	Translate business vision into actionable technical roadmaps.
-
-Impact:
-
-	•	Led design of AI-driven systems and analytics platforms delivering measurable business value.
-	•	Modernized legacy applications into microservices and serverless architectures.
-	•	Directed AI/ML solutions, including RAG pipelines and predictive models for strategic decisions.
+Engineering Manager with 13+ years leading platform and data teams through digital transformation. 
+Expert in cloud-native modernization (AWS, Azure, GCP), data architectures (Databricks, Snowflake), and applied Al including RAG and predictive ML. 
+Aligns technical strategy with business outcomes while driving FinOps discipline. Delivered 50-70% faster deployments and 20-32% cloud cost reductions.
